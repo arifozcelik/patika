@@ -14,7 +14,7 @@ public class SifreDogrulama {
         System.out.print("Sifrenizi giriniz:");
         password= girdi.nextLine();
 
-        if (username.equals("arif07arif") && password.equals("196397")){
+        if (username.equals("asdffgjkas") && password.equals("sdfdf")){
             System.out.println("Devam edebilirsiniz");
         }else {
             System.out.println("Yanlış kullanıcı adı veya şifre...");
